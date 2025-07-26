@@ -13,7 +13,7 @@
 
 1. Установите расширение для запуска пользовательских скриптов: [Tampermonkey](https://www.tampermonkey.net/)
 
-2. Перейдите по ссылке для установки скрипта: [Установить скрипт](https://github.com/koloved/vk-video-auto-hd-quality/raw/refs/heads/main/VK_Video_Auto_HD_Quality.user.js)
+2. Перейдите по ссылке для установки скрипта: [Установить скрипт](https://github.com/CaesarRulezzz/vk-video-auto-hd-quality/raw/refs/heads/main/VK_Video_Auto_HD_Quality.user.js)
 
 3. Нажмите **Установить** в интерфейсе вашего менеджера пользовательских скриптов.
 
