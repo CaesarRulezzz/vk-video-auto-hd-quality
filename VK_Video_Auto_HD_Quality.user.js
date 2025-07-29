@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VK Video Auto HD Quality
 // @namespace    https://greasyfork.org/
-// @version      1.0
+// @version      1.1
 // @description  Скрипт для автоматического выбора качества видео на VK Видео
 // @author       NoName
 // @match        https://vkvideo.ru/*
