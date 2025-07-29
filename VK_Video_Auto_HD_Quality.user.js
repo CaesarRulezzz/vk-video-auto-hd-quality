@@ -19,7 +19,7 @@
         QUALITY_SUBLIST_ITEM: '.videoplayer_settings_menu_sublist_item',
     };
 
-    const DESIRED_QUALITIES = ['1440p', '1080p60', '1080p'];
+    const DESIRED_QUALITIES = ['1440p', '1080p60', '1080p50', '1080p'];
 
     // Вспомогательная функция для ожидания элемента через MutationObserver
     const waitForElement = (selector) => {
