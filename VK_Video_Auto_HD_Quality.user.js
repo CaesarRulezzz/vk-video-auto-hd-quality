@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VK Video Auto HD Quality
 // @namespace    https://greasyfork.org/
-// @version      1.1
+// @version      1.2
 // @description  Скрипт для автоматического выбора качества видео на VK Видео
 // @author       NoName
 // @match        https://vkvideo.ru/*
@@ -19,7 +19,7 @@
         QUALITY_SUBLIST_ITEM: '.videoplayer_settings_menu_sublist_item',
     };
 
-    const DESIRED_QUALITIES = ['1440p', '1080p60', '1080p50', '1080p'];
+    const DESIRED_QUALITIES = ['1440p60','1440p', '1080p60', '1080p50', '1080p'];
 
     // Вспомогательная функция для ожидания элемента через MutationObserver
     const waitForElement = (selector) => {
